@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": "NDTV Sports Desk",
+      "title": "India vs New Zealand LIVE Cricket Score, 1st T20I: Heavy Downpour In Wellington, Wait Continues For Match To Start - NDTV Sports",
+      "description": "IND vs NZ LIVE Score, 1st T20I: The toss for the1st T20I between India and New Zealand has been delayed due to rain in Wellington",
+      "url": "https://sports.ndtv.com/new-zealand-vs-india-2022-23/ind-vs-nz-1st-t20-match-india-vs-new-zealand-live-score-updates-3531338",
+      "urlToImage": "https://c.ndtvimg.com/2022-11/43f41cq8_wellington-rain-twitter-_625x300_18_November_22.jpg",
+      "publishedAt": "2022-11-18T06:37:57Z",
+      "content": "India vs New Zealand, 1st T20I, Live Score Updates: The toss for the 1st T20I between India and New Zealand has been delayed due to rain in Wellington. Both these teams suffered losses in their respe… [+414 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "HT Sports Desk",
+      "title": "Watch - Agar sends social media into frenzy with sensational effort in 1st ODI - Hindustan Times",
+      "description": "Australia's Ashton Agar made a showstopper of a fielding effort to deny England's Dawid Malan a six.  | Cricket",
+      "url": "https://www.hindustantimes.com/cricket/watch-fielding-effort-of-the-century-ashton-agar-sends-social-media-into-frenzy-with-sensational-effort-in-1st-odi-101668691315043.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/11/17/1600x900/agar_1668692481153_1668692489747_1668692489747.jpg",
+      "publishedAt": "2022-11-17T13:43:36Z",
+      "content": "Australia started life under Pat Cummins as ODI captain with a win over reigning 50-over and T20I world champions England in the first ODI in Adelaide. The recent T20 World Cup, which was hosted in A… [+2104 chars]"
+    },
+    {
+      "source": { "id": null, "name": "International Cricket Council" },
+      "author": "Daniel Beswick",
+      "title": "Explainer: Why Nepal were awarded five penalty runs in UAE ODI - ICC Cricket",
+      "description": "After an ICC Men's T20 World Cup where laws and playing conditions were read to the letter, Nepal were the beneficiaries of a newer cricketing curiosity in their home One Day International series with United Arab Emirates.",
+      "url": "https://www.icc-cricket.com/news/2911236",
+      "urlToImage": "https://resources.pulse.icc-cricket.com/ICC/photo/2022/11/17/49dcf04d-0a4b-434b-a0ae-c6982ef03aff/Alishan-Sharafu.png",
+      "publishedAt": "2022-11-17T02:50:56Z",
+      "content": "After an ICC Men's T20 World Cup where laws and playing conditions were read to the letter, Nepal were the beneficiaries of a newer cricketing curiosity in their home One Day International series wit… [+1817 chars]"
+    }
+  ]
+}
